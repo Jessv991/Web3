@@ -3,10 +3,10 @@
   
 
     <title type="text">Noticias just Informática</title>
-  <id>http://www.informaticapura.com/atom</id>
+  <id>https://jessv991.github.io/Web3/atom.xml</id>
 
-  <link rel="self" type="application/atom+xml" href="http://www.informaticapura.com/feed/canal_word_festival.atom"/>
-  <link rel="alternate" type="text/html" href="www.informaticapura.com"/>
+  <link rel="self" type="application/atom+xml" href="https://jessv991.github.io/Web3/feed/canal_word_festival.atom"/>
+  <link rel="alternate" type="text/html" href="https://jessv991.github.io/Web3/"/>
   <updated>2023-02-06T00:00:00Z</updated>
 
   <author>

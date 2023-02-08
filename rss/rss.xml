@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Noticias just Informática</title>
-    <link>http://www.informaticapura.com/rss</link>
+    <link>https://jessv991.github.io/Web3/rss/rss.xml</link>
     <description>Noticias de informática de primera mano</description>
     <language>es</language>
 
@@ -10,6 +10,10 @@
       <title>El Robot Alexander fue desconectado por extraño comportamiento</title>
       <link>http://www.informaticapura.com/software-edicion-video</link>
       <description>El Robot Alexander fue desconectado luego de que opinara que la humanidad era dañina y no hacía nada bueno en la tierra.</description>
+      <enclosure url="https://jessv991.github.io/Web3/Imagen/inform.png" length="44139" type="image/png"/> 
+      <media:content url="https://jessv991.github.io/Web3/Imagen/inform.png">
+						<media:thumbnail url="https://jessv991.github.io/Web3/Imagen/inform.png" width="250" height="250"/>
+			</media:content>
     </item>
     
     <item>
