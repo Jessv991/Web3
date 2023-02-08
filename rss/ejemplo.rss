@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias just Informática</title>
+    <link>http://www.informaticapura.com/rss</link>
+    <description>Noticias de informática de primera mano</description>
+    <language>es</language>
+
+    <item>
+      <title>El Robot Alexander fue desconectado por extraño comportamiento</title>
+      <link>http://www.informaticapura.com/software-edicion-video</link>
+      <description>El Robot Alexander fue desconectado luego de que opinara que la humanidad era dañina y no hacía nada bueno en la tierra.</description>
+    </item>
+    
+    <item>
+      <title>Avances con Alexa</title>
+      <link>http://www.informaticapura.com/robots-ia</link>
+      <description>Se han desarrollado un software de inteligencia artificial para que Alexa tenga más empatía y mejorar el trato con las persona.</description>
+    </item>
+    
+    <item>
+      <title>Lanzamiento de nuevo coche electrico con Siri como asistente</title>
+      <link>http://www.informaticapura.com/sistema-operativo</link>
+      <description>Se ha lanzado un nuevo coche electrico con un sistema operativo que utiliza a Siris como asistente del conducto y el conductor puede pedirle ayuda.</description>
+    </item>
+  </channel>
+</rss>
